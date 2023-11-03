@@ -1,0 +1,23 @@
+ul{
+    font-size: large;
+    text-align: center;
+    symbols: none;
+    
+}
+p{
+    background-color:purple ;
+    color:wheat;
+    font-family:fantasy;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 5rem;
+}   
+*{
+    background-color: rgb(104, 191, 57);
+}
+img{
+    text-align: center;
+    height:30%;
+    border-radius: 30%;
+
+}
